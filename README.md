@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0C878&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=2D336B&width=435&lines=Hello%2C+it's+Manavkumar+Patel;Full+stack+web+dev" alt="Web dev"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=A0C878&width=435&lines=Hello%2C+it's+Manavkumar+Patel;Full+stack+web+dev;Competitive+programmer;Learner;Builder" alt="Web dev"/>
 </a>
 
 ### Intro
@@ -14,4 +14,4 @@ Infra-obsessed full-stack dev & algorithmist with a passion for high-performance
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1AvCmcJf3uiIyWWaorPX0Ae_Tc12yA1TB/view?usp=sharing" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0C878&height=120&section=footer" alt="footer"/>
